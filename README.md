@@ -13,3 +13,7 @@
 - data_tianchi_01_p_04_KNN.ipynb KNN 测试得分不是很高
 - data_tianchi_01_p_05_NN.ipynb  有特征的神经网络（传统） 测试得分0.7左右
 - data_tianchi_01_p_05_NN-V2.ipynb data_tianchi_01_05_DNN.py 深度学习，测试的得分最高0.65 ，不稳定，参数调整很难调整（很容易掉到坑里），使用阿里云PI（Data Science Workshop），Tesla M40 GPU配置（500元/月）
+
+## 目前得分
+
+![](result.png)
